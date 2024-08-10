@@ -1,5 +1,5 @@
 
-# README: Quantile Regression Comparison Using Random Forest (QRF vs RF-GAP)
+# Quantile Regression Comparison Using Random Forest (QRF vs RF-GAP)
 
 ## Overview
 This project demonstrates the application of two different methods for quantile regression using Random Forests: Quantile Regression Forests (QRF) and a custom method referred to as Random Forests with Gradient-based Adjustment for Prediction (RF-GAP). The comparison focuses on the Mean Squared Error (MSE) of the predictions at different quantiles (5th, 50th, and 95th) using the California Housing dataset.
