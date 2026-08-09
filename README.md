@@ -1,4 +1,7 @@
 
+</think>
+
+```markdown
 # Quantile Regression Comparison Using Random Forest (QRF vs RF-GAP)
 
 ## Overview
@@ -63,7 +66,7 @@ The code uses the California Housing dataset from the `scikit-learn` library. Th
 3. Run the script in a Python environment:
 
 ```bash
-python quantile_regression_comparison.py
+python main.py
 ```
 
 4. The code will output MSE for each quantile and display scatter plots comparing the two methods.
@@ -94,3 +97,4 @@ These functions are located in the `utils.py` file (which should be created or a
 ## Conclusion
 
 This project provides a hands-on implementation of quantile regression using Random Forests. By comparing the QRF and RF-GAP methods, it offers insights into their performance for predicting different quantiles in a dataset.
+```
